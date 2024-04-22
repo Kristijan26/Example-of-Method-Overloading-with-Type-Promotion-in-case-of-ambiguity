@@ -1,0 +1,1 @@
+# Example-of-Method-Overloading-with-Type-Promotion-in-case-of-ambiguity
